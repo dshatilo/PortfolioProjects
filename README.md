@@ -1,5 +1,5 @@
 # Portfolio Projects Repository
-This Repository will hold all of the code and queries from the Portfolio Projects I create.
+This Repository will hold all of the SQL code and queries from the Portfolio Projects I create.
 In this project, I have performed an analysis of valuation ($) data for different companies and found key insights. For seeing the code used ...
 For seeing the insights derived after performing the analysis ...
 
