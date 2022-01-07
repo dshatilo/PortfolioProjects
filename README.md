@@ -8,6 +8,7 @@ For seeing the insights derived after performing the analysis ...
 # Highlights
 35 private companies valued at over $10 Bn as of December 2021.
 US companies dominate the list of unicorns.
+More than 77% of unicorns valued above $10 Bn are categorized in tech-related fields, primarily in financial and e-commerce.
 
 
 # About Me
