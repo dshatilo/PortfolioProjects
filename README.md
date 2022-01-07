@@ -6,7 +6,8 @@ For seeing the insights derived after performing the analysis ...
 
 
 # Highlights
-35 private companies valued at over $10 Bn as of December 6, 2021.
+35 private companies valued at over $10 Bn as of December 2021.
+US companies dominate the list of unicorns.
 
 
 # About Me
