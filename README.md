@@ -4,6 +4,8 @@ In this project, I have performed an analysis of valuation ($) data for differen
 For seeing the insights derived after performing the analysis ...
 
 
+# Context
+"Unicorn" is the term used in the venture capital industry to describe a startup company with a value of over $1 billion. The term was first coined by venture capitalist Aileen Lee in 2013.
 
 # Highlights
 35 private companies valued at over $10 Bn as of December 2021.
